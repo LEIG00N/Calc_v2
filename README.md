@@ -1,2 +1,2 @@
 # Calc_v2
-Calc
+git clone https://github.com/LEIG00N/Calc_v2
